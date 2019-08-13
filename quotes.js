@@ -101,4 +101,10 @@ const quotes = [
 				 	author: "",
 					type: ["humorous", "inspirational"]
 					},
+					{
+					id: 17, 
+				 	quote: "The only woman who ran away from the ball and it worked out was Cinderella", 
+				 	author: "The Bould Johnny O'Sullivan",
+					type: ["humorous", "inspirational"]
+					},
 				]
